@@ -26,6 +26,12 @@ class Student
 	int age;
 	string name;
 };
+class University
+{
+	Student* Academy;
+	int count;
+public:
+};
 int main()
 {
 	Point A;
