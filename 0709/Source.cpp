@@ -23,5 +23,5 @@ public:
 };
 int main()
 {
-
+	Point A;
 }
