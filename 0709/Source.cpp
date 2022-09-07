@@ -21,6 +21,11 @@ public:
 
 	}
 };
+class Student
+{
+	int age;
+	string name;
+};
 int main()
 {
 	Point A;
